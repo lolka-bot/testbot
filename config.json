@@ -7,6 +7,6 @@
         "uXP": 1000
     },
     "database": {
-        "dataURL":"mongodb+srv://lolka:Edikharin123@cluster0.4mahh.mongodb.net/lolka?retryWrites=true&w=majority"
+        "dataURL":""
     }
 }
